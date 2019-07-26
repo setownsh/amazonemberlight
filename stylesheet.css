@@ -1,11 +1,11 @@
-			@font-face{
-			font-family:'Amazon Ember Light';
-			src:url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.eot'),
-			url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.eot?#iefix') format('embedded-opentype'),
-			url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.woff2') format('woff2'),
-			url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.woff') format('woff'),
-			url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.ttf') format('truetype'),
-			url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.svg#AmazonEmber-Light') format('svg');
-			font-weight:300;
-			font-style:normal;
-			}
+@font-face{
+font-family:'Amazon Ember Light';
+src:url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.eot'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.eot?#iefix') format('embedded-opentype'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.woff2') format('woff2'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.woff') format('woff'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.ttf') format('truetype'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Light.svg#AmazonEmber-Light') format('svg');
+font-weight:300;
+font-style:normal;
+}
